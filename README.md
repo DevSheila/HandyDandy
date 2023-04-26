@@ -1,4 +1,4 @@
-### HUSTLE HUB
+### HANDY DANDY
 "Connecting skilled handymen with potential clients in Kenya"
 ## Project Description
 
