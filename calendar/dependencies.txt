@@ -1,0 +1,4 @@
+npm i expo/vector-icons react-native-async-storage/async-storage react-native-community/datetimepicker react-navigation/bottom-tabs react-navigation/native react-navigation/native-stack react-navigation/stack axios email-validator  expo-localization  password-validator  react-dom  react-native-gesture-handler react-native-keyboard-aware-scroll-view react-native-modal-datetime-picker react-native-paper react-native-safe-area-context react-native-screens react-native-web expo-updates expo-secure-store
+
+
+

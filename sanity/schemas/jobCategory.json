@@ -1,0 +1,7 @@
+{
+  "_id": "jobCategory-1",
+  "_type": "jobCategory",
+  "Id": "d9f42a87-008a-4eb2-9b04-e3b4c4ad744f",
+  "title": "Software Development",
+  "description": "Jobs related to software development, such as software engineer, software developer, etc."
+}

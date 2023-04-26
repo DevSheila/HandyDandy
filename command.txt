@@ -1,0 +1,73 @@
+>>>Install expo-cli
+>>>npm i -g expo-cli
+>>>expo init uber-clone-yt
+create app
+npx create-expo-app deliverro-clone
+
+Install  react native tailwind css
+npm i tailwindcss-react-native
+do configurations on babel and tailwind.config.css
+wray tailwind provider in app.js
+
+>>>react navigation commands
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+npm i react-native-heroicons
+npx expo install react-native-svg
+
+
+npm i -g @sanity/cli
+npm create sanity@latest -- --coupon sonny2022
+sanity init --coupon sonny2022
+npm i @sanity/client @sanity/image-url
+
+>>sanity start
+SHORTCUT
+ctr + .=>import 
+rnfe=>components generator
+
+
+>>>cd sanity 1:36:01
+>>>>sanity cors add http://localhost:19006 
+
+>>>sanity deploy
+https://deliveroosheilayt.sanity.studio/
+Redeploy anytime you make changes to local sanity
+
+>>>sanity start 1:38
+
+>>>Homescreen 
+useEffect(()=>{
+    sanityClient.fetch(`
+     //sanity payload
+    `)
+  },[])
+
+>>>FeaturedRow
+
+  useEffect(()=>{
+      sanityClient.fetch(`
+
+      // 1:50:01
+      `).then(data =>{
+        setRestaurants(data?.restaurants);
+      })
+  },[])
+
+
+npm i @react-navigation/native @react-navigation/native-stack @reduxjs/toolkit expo expo-status-bar intl react react-dom react-native react-native-dotenv react-native-elements react-native-google-places-autocomplete react-native-maps react-native-maps-directions react-native-safe-area-context react-native-screens react-native-vector-icons react-native-web react-redux tailwind-react-native-classnames
+
+
+npm i -d @babel/core @types/react @types/react-native typescript
+
+
+
+npm i @awrminkhodaei/react-native-horizontal-datepicker expo-location moment-jalaali react-native-image-slider-box
+
+
+
+
+
+
