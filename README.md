@@ -7,7 +7,7 @@ HandyDandy is an app that aims to connect skilled handymen with potential client
 ## Table of contents
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [Screenss](#screens)
 
 ## Technologies
 
@@ -26,7 +26,48 @@ git clone https://github.com/DevSheila/HandyDandy.git
 npm start
 ```
 
-## FEATURES
+## SCREENS
+
+1. Authentication(signup and login)
+<img
+ src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/signup.jpg" alt="SignUp Screen" title="SignUp Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/login.jpg" alt="Login Screen" title="Login Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+1. Home
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/home.jpg" alt="Home Screen" title="Home Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/drawer.jpg" alt="Drawer Screen" title="Drawer Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+1. Location
+
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/autocomplete%20location.jpg
+" alt=" Autocomplete Screen" title="Autocomplete Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/location.jpg" alt="Location Screen" title="Location Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+1. Services
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/rooms.jpg" alt=" Rooms Screen" title="Rooms Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/details.jpg" alt=" Details Screen" title="Details Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/request.jpg" alt=" Requests Screen" title="Requests Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+
+1. Messages
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/chat.jpg" alt="Chat Screen" title="Chat Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img src="https://raw.githubusercontent.com/DevSheila/HandyDandy/main/assets/Screenshots2/messages.jpg" alt="Messages Screen" title="Messages Screen" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+
+
+
 
 
 
